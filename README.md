@@ -2,6 +2,7 @@
 
 *Venha fazer parte da B2W Digital. A maior plataforma digital da américa latina*
 
+<img src="https://i.stack.imgur.com/IBQah.jpg" alt="B2W Digital" width="960px" />
 <p align="center">
   <img src="https://b2wdigital-prod.imgix.net/upload/marcasenumeros/00001656.jpg" alt="B2W Digital" width="180px" />
   <img src="https://b2wdigital-prod.imgix.net/upload/marcasenumeros/00001653.jpg" alt="B2W Digital" width="180px" />
